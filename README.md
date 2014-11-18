@@ -15,3 +15,7 @@
 #### [Глава 9. Конституционные поправки и пересмотр конституции](Section-1/Chapter-9.md)
 ### Раздел второй
 #### [Заключительные и переходные положения](Section-2/Concluding-and-Transitional-Provisions.md)
+
+## Редакции и поправки
+
+* [Редакция 1993 года](https://github.com/law-writer/Constitution-of-the-Russian-Federation/tree/500539cf1ecdc5e3f7c3ec4d1ff1005bf139a96d)
